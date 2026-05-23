@@ -1,0 +1,3 @@
+publishToMavenLocal:
+	./gradlew publishToMavenLocal
+
