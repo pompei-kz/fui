@@ -1,0 +1,3 @@
+rootProject.name = 'kz-pompei-fui'
+
+include ":kz-pompei-fui"
