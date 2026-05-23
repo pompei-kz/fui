@@ -89,4 +89,8 @@ public class FuiCheckbox {
       change.fire();
     }
   }
+
+  public void remove() {
+    doRemove.run();
+  }
 }

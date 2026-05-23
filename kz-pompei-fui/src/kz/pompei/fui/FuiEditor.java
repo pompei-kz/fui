@@ -87,7 +87,6 @@ public class FuiEditor {
 
   public void remove() {
     doRemove.run();
-    visibility.set(false);
   }
 
   public @NonNull Disconnector change(@NonNull Handler handler) {
