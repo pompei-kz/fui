@@ -11,7 +11,7 @@ allprojects {
 
   java.toolchain.languageVersion = JavaLanguageVersion.of(21)
 
-  group = "kz.pompei.scheduler"
+  group = "kz.pompei.fui"
 
   buildscript {
     repositories {

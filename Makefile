@@ -1,3 +1,3 @@
 publishToMavenLocal:
-	./gradlew publishToMavenLocal
+	./gradlew :kz-pompei-fui:publishToMavenLocal
 
